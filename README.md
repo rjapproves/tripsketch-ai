@@ -63,8 +63,6 @@ It works instantly in mock mode (no API key needed) or generates real itinerarie
 
 ---
 
----
-
 ## Quick Start
 
 ```bash
