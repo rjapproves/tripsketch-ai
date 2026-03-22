@@ -36,11 +36,14 @@ It works instantly in mock mode (no API key needed) or generates real itinerarie
 <img width="1623" height="1287" alt="Kyoto_Main_Warnings" src="https://github.com/user-attachments/assets/f25aae56-47cb-40d8-b2ff-d52da10d3131" />
 Kyoto 4-day itinerary prioritizing culture, culinary and social experiences. Warnings shown are related to distance (>8pm apart). 
 
+
 <img width="1622" height="1285" alt="Kyoto_Day1" src="https://github.com/user-attachments/assets/cd740d87-b1f8-4418-88be-8ed28866f3de" />
 Kyoto Day 1 itinerary includes must-see place Fushimi Inari Taisha, and several other places chosen according to interests and notes (specified cherry blossoms). 
 
+
 <img width="1624" height="1287" alt="Kyoto_Day_3" src="https://github.com/user-attachments/assets/28a3fa5a-dcb9-4f65-b800-1a6d4dacaab4" />
 Kyoto Day 3 itinerary includes must-see place Arashiyama Bamboo Grove, Michelin-star and hidden gem restaurants (fine dining), nightlift & bars, photography and cherry blossoms. 
+
 
 <img width="1619" height="1284" alt="SF_rain_day" src="https://github.com/user-attachments/assets/b8212d83-9411-412d-9381-29b7189bd5a7" />
 San Francisco budget "stay-cation" with friends visiting for a (rainy) weekend of indoor activities: museums, bowling, and craft beer & wine.
