@@ -54,9 +54,9 @@ It works instantly in mock mode (no API key needed) or generates real itinerarie
 <br>
 
 <img width="1619" alt="SF_Vegan_options" src="https://github.com/user-attachments/assets/73841633-7584-47aa-988d-61753a5a1492" />
-
 *Food options shown respect dietary restrictions — restaurants are all vegan friendly. Map shows proximity across suggested locations.*
 <br>
+
 ---
 
 ## Quick Start
