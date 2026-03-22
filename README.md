@@ -51,6 +51,12 @@ It works instantly in mock mode (no API key needed) or generates real itinerarie
 
 ---
 
+<img width="1624" height="1287" alt="Kyoto_Day_3" src="https://github.com/user-attachments/assets/1d85be48-aeb1-4d85-b2d0-77a31f094b68" />
+
+*Kyoto Map shows proximity across suggestions. Different export and share options.*
+
+---
+
 <img width="1619" alt="SF_rain_day" src="https://github.com/user-attachments/assets/b8212d83-9411-412d-9381-29b7189bd5a7" />
 
 *San Francisco budget "stay-cation" with friends visiting for a (rainy) weekend of indoor activities: museums, bowling, and craft beer and wine.*
