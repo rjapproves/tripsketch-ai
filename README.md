@@ -2,7 +2,7 @@
 
 > AI-powered travel itinerary generator — enter a destination and preferences, get a structured day-by-day plan with cost estimates, an interactive map, and a shareable link.
 
-**[Live Demo →](https://sbasu2016-tripsketch-ai.streamlit.app)** · Built with Python, Streamlit, Claude API, Leaflet, and Google Maps tiles
+**[Live Demo →](https://tripsketch-ai.streamlit.app)** · Built with Python, Streamlit, Claude API, Leaflet, and Google Maps tiles
 
 ---
 
