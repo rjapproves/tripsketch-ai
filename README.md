@@ -51,7 +51,8 @@ It works instantly in mock mode (no API key needed) or generates real itinerarie
 
 ---
 
-<img width="1624" height="1287" alt="Kyoto_Day_3" src="https://github.com/user-attachments/assets/1d85be48-aeb1-4d85-b2d0-77a31f094b68" />
+<img width="1622" height="1287" alt="Kyoto_Map" src="https://github.com/user-attachments/assets/9d77ff7f-a928-42a3-bf24-8ee315fedfb9" />
+
 
 *Kyoto Map shows proximity across suggestions. Different export and share options.*
 
