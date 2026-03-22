@@ -224,12 +224,6 @@ pytest tests/ -v
 
 ---
 
-## Deployment
-
-See [DEPLOYMENT.md](DEPLOYMENT.md) for the full Streamlit Community Cloud deployment guide.
-
----
-
 ## V2 Roadmap
 
 Features under consideration for future versions:
